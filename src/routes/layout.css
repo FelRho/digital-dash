@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+
+button{
+    background-color: aqua;
+    border: black 2px solid;
+    border-radius: 5px;
+    padding: 3px;
+    color: black
+}
+
+button:hover
+{
+    background-color: aquamarine;
+}
